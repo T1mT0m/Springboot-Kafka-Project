@@ -1,0 +1,14 @@
+INDEX VERSION 1.132+C:\Biju\Youtube\Springboot.ApacheKafka\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2796400869.index
+3185049982.index
+3294611417.index
+734627052.index
+3675330774.index
+2811040511.index
+1574871612.index
+3897678192.index
+401760018.index
+1100140062.index
+741259405.index
+4003879485.index

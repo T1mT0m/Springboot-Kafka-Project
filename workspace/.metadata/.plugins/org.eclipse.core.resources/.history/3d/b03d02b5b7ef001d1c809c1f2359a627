@@ -1,0 +1,5 @@
+package com.github.bwar.sb.kafka.Controller;
+
+public class MessageController {
+
+}

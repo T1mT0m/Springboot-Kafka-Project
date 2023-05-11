@@ -1,0 +1,5 @@
+package com.github.bwar.sb.kafka.events;
+
+public class WikimediaChangesHandler {
+
+}
